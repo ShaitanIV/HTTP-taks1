@@ -1,0 +1,13 @@
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\HTTP task 1.exe.config
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\HTTP task 1.exe
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\HTTP task 1.pdb
+D:\source\repos\HTTP task 1\HTTP task 1\obj\Debug\HTTP task 1.csprojAssemblyReference.cache
+D:\source\repos\HTTP task 1\HTTP task 1\obj\Debug\HTTP task 1.csproj.CoreCompileInputs.cache
+D:\source\repos\HTTP task 1\HTTP task 1\obj\Debug\HTTP task 1.exe
+D:\source\repos\HTTP task 1\HTTP task 1\obj\Debug\HTTP task 1.pdb
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\CsQuery.dll
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\HtmlAgilityPack.dll
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\CsQuery.xml
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\HtmlAgilityPack.pdb
+D:\source\repos\HTTP task 1\HTTP task 1\bin\Debug\HtmlAgilityPack.xml
+D:\source\repos\HTTP task 1\HTTP task 1\obj\Debug\HTTP task 1.csproj.CopyComplete
